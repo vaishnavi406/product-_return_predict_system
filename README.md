@@ -1,4 +1,3 @@
-# 
 Product Return Prediction
 
 An **end-to-end machine learning project** that predicts which e-commerce orders are likely to be **returned** — a realistic, imbalanced (~30% return rate) binary classification problem.
@@ -29,9 +28,7 @@ Run the cells top to bottom. The notebook reads the dataset with a **relative pa
 
 ## What it demonstrates
 
-This capstone ties together the skills from the rest of the [ML Crash Course](../README.md):
 - Data cleaning, encoding, and feature scaling
 - Handling **class imbalance**
 - Training and comparing several classifiers
 - Evaluating with the **classification report** and **confusion matrix**, not just accuracy
-# product-_return_predict_system
